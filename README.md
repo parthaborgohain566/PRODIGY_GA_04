@@ -4,7 +4,8 @@ This notebook implements a Conditional Generative Adversarial Network (cGAN) for
 
 ---
 ## Output
-<img width="950" height="315" alt="image" src="https://github.com/user-attachments/assets/5728f656-b1da-405a-afe2-9a76b12ea023" />
+<img width="950" height="315" alt="image" src="https://github.com/user-attachments/assets/d5f9e34c-5984-4071-872e-2be74e70a1e5" />
+
 ---
 
 ## 📌 Project Overview
@@ -19,8 +20,10 @@ Unlike traditional unstructured GANs that generate images from random noise vect
 
 ## 🏗️ Model Architecture
 ---
-<img width="522" height="1430" alt="image" src="https://github.com/user-attachments/assets/b260c4a9-cf54-4cf8-809b-f54433a2bd06" /> <br>
-<img width="376" height="814" alt="image" src="https://github.com/user-attachments/assets/a8b03b7c-cb76-4631-918c-35efb708d1a2" />
+<img width="522" height="1430" alt="image" src="https://github.com/user-attachments/assets/e9e19b13-0a20-4c70-a6a3-3decf9887bce" />
+ <br>
+<img width="376" height="814" alt="image" src="https://github.com/user-attachments/assets/acc02e27-97b6-4b83-ae7c-509ae4a78093" />
+
 
 
 ---
